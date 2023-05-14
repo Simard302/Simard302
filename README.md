@@ -20,9 +20,9 @@
         <img src="https://skillicons.dev/icons?i=linkedin"></a>
     <a style="margin-left: 10px;" target="_blank" href="https://github.com/Simard302">
 		    <img src="https://skillicons.dev/icons?i=github"></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://googlecloud.qwiklabs.com/public_profiles/492f38f0-b59a-4ef6-afcd-17490b70a95c">
+		<a style="margin-left: 5px;" target="_blank" href="https://g.dev/adamsimard">
 		    <img src="https://skillicons.dev/icons?i=googlecloud" ></a>
-    <a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
+    <a style="margin-left: 5px;" target="_blank" href="https://discordapp.com/users/199344293339594753">
 		    <img src="https://skillicons.dev/icons?i=discord" ></a>
 </div>
 
