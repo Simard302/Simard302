@@ -29,5 +29,5 @@
 </p>
 <div align="center">
 
-[![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=simard302&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=simard302&hide=stars&PAT_1)](https://github.com/anuraghazra/github-readme-stats)
 </div>
