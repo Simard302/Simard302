@@ -16,7 +16,7 @@
 ## :wave: New here?
 - Check out my [newest project](https://github.com/Simard302/cc9-gesture-censorship), using ML to do __live__ gesture recognition and blurring, here's a [video](https://www.youtube.com/watch?v=8joYMFchrZo)
 - Read about my [GDSC chapter](https://gdsc.community.dev/mcgill-university/) and maybe attend an event
-- Connect with me on [linkedIn](https://www.linkedin.com/in/adamsimard/)
+- Connect with me on [linkedIn](https://www.linkedin.com/in/adamsimard/) to see my posts
 - Reach out to collaborate on a project 😄
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
