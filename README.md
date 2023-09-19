@@ -5,11 +5,19 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 - :man_student: I am a `U3` in [Faculty of Engineering](https://www.mcgill.ca/engineering/) at [McGill University](https://www.mcgill.ca/)
+- :earth_americas: I am a GDSC Lead, building the [GDSC McGill chapter](https://gdsc.community.dev/mcgill-university/)
 - :briefcase: I am working in `BioTech` at [Congruence Therapeutics](https://congruencetx.com/)
 - :mag: I am interested in `Machine Learning` and `Cloud Computing`
 - :cloud: I am completing my `Professional Machine Learning Engineer` certification with [Google Cloud](https://cloud.google.com/learn/certification/machine-learning-engineer)
 - :raised_hands: I am aspiring to be involved in my `Developer Community`
 - :speech_balloon: I am open to `Collaborations` on many projects
+
+
+## :wave: New here?
+- Check out my [newest project](https://github.com/Simard302/cc9-gesture-censorship), using ML to do __live__ gesture recognition and blurring, here's a [video](https://www.youtube.com/watch?v=8joYMFchrZo)
+- Read about my [GDSC chapter](https://gdsc.community.dev/mcgill-university/) and maybe attend an event
+- Connect with me on [linkedIn](https://www.linkedin.com/in/adamsimard/)
+- Reach out to collaborate on a project 😄
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
