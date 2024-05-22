@@ -6,7 +6,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 - :man_student: I am a `U3` in [Faculty of Engineering](https://www.mcgill.ca/engineering/) at [McGill University](https://www.mcgill.ca/)
 - :earth_americas: I am a `Google Developer Student Clubs Lead`, building the [GDSC McGill chapter](https://gdsc.community.dev/mcgill-university/)
-- :briefcase: I am working in `BioTech` at [Congruence Therapeutics](https://congruencetx.com/)
+- :briefcase: I am working in `BioTech` at [TandemAI](https://tandemai.com/)
 - :mag: I am interested in `Machine Learning` and `Cloud Computing`
 - :cloud: I am completing my `Professional Machine Learning Engineer` certification with [Google Cloud](https://cloud.google.com/learn/certification/machine-learning-engineer)
 - :raised_hands: I am aspiring to be involved in my `Developer Community`
