@@ -1,9 +1,10 @@
 <h1 align="center">Hi , I'm Adam Simard <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-- :briefcase: I am a Software Development Engineer at [Amazon Web Services](https://aws.amazon.com/)
-- :man_student: I am have a bachelor's in software engineering from [McGill University](https://www.mcgill.ca/)
-- :earth_americas: I was a Google Developer Student Clubs Lead and founded the [GDG McGill chapter](https://gdg.community.dev/gdg-on-campus-mcgill-university-montreal-canada/)
+- I am a Full Stack Engineer working in BioTech at [TandemAI](https://tandemai.com/)
+- I am have a bachelor's in software engineering from [McGill University](https://www.mcgill.ca/)
+- I used to work as a Software Development Engineer at [Amazon Web Services](https://aws.amazon.com/)
+- I was a Google Developer Groups Lead and founded the [GDG McGill chapter](https://gdg.community.dev/gdg-on-campus-mcgill-university-montreal-canada/)
 
 
 ## :wave: 
